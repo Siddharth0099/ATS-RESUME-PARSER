@@ -1,1 +1,1 @@
-# ATS-RESUME-PARSER
+A ATS Resume Parser App where a bulk of resume is scanned and results give the best resumes. If the resumes are above 70 it gives the best results of the following resumes uploaded.
